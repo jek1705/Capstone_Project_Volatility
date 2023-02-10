@@ -8,8 +8,9 @@ Checkout our medium post here : [forecasting-volatility](https://medium.com/@bar
 
 ## Installation
 
-To get started, you can clone the repo by running the following command:
+- To get started, you can clone the repo by running the following command:
 git clone https://github.com/jek1705/Capstone_Project_Volatility.git
+- You might need to install two libraries if you don't have them installed already: !pip install yfinance, !pip install xgboost
 
 ## Project Motivation
 
