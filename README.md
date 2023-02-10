@@ -4,7 +4,7 @@
 
 Welcome to our Data Science project on London Housing Prices! Our goal is to build a model to improve the forecast of volatility, which is an essential indicator for risk management in the Finance industry.
 
-Checkout our medium post here : [forecasting-volatility] (https://medium.com/@barkate.jerome/smarter-risk-management-forecasting-volatility-with-machine-learning-b71d41293e6e)
+Checkout our medium post here : [forecasting-volatility](https://medium.com/@barkate.jerome/smarter-risk-management-forecasting-volatility-with-machine-learning-b71d41293e6e)
 
 ## Installation
 
