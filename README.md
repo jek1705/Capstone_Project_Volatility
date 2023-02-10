@@ -17,7 +17,8 @@ This project is a part of my Udacity Data Science Nanodegree program, where I ai
 
 ## File Descriptions
 
-
+- Capstone Project - Volatility Forecast.ipynb   # contains all the project functions and results used to write the medium article
+- README.md
 
 ## How to Interact with the Project
 
